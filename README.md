@@ -1,5 +1,7 @@
 # Shortcut
 
+![GitHub All Releases](https://img.shields.io/github/downloads/egoist/Shortcut/total?style=for-the-badge)
+
 A menubar app that displays shortcuts for current open app. (__it works for every app!__)
 
 __Note: this is my first native Mac app, the code is pretty messy!__
