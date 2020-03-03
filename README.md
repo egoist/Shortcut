@@ -6,7 +6,7 @@ __Note: this is my first native Mac app, the code is pretty messy!__
 
 And what I've learnt so far:
 
-- Interface builder and storyboard is not my jam.
+- Interface builder and storyboard are not my jam.
 - Swift UI is awesome but not mature enough! Especially for macOS apps, many UI components are missing (but you can always use `NSViewRepresentable` to connect `NSView` to your Swift UI interface).
 - Electron is [actually not a bad idea](https://jlongster.com/secret-of-good-electron-apps).
 
