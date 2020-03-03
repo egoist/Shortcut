@@ -2,7 +2,18 @@
 
 A menubar app that displays shortcuts for current open app. (__it works for every app!__)
 
-<small>Note: this is my first native Mac app, the code is pretty messy!</small>
+__Note: this is my first native Mac app, the code is pretty messy!__
+
+And what I've learnt so far:
+
+- Interface builder and storyboard is not my jam.
+- Swift UI is awesome but not mature enough! Especially for macOS apps, many UI components are missing (but you can always use `NSViewRepresentable` to connect `NSView` to your Swift UI interface).
+- Electron is [actually not a bad idea](https://jlongster.com/secret-of-good-electron-apps).
+
+So why I'm using Swift UI now?
+
+- I like apps with native UI controls.
+- Smaller package size.
 
 ## Preview
 
