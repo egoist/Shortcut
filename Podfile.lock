@@ -1,0 +1,42 @@
+PODS:
+  - KeyHolder (3.0.1):
+    - Magnet (~> 2.3)
+  - LoginServiceKit (2.1.0)
+  - Magnet (2.3.1)
+  - Preferences (1.0.1)
+
+DEPENDENCIES:
+  - KeyHolder
+  - LoginServiceKit (from `https://github.com/Clipy/LoginServiceKit.git`)
+  - Magnet
+  - Preferences (from `https://github.com/fredyshox/Preferences.git`, branch `swiftui`)
+
+SPEC REPOS:
+  trunk:
+    - KeyHolder
+    - Magnet
+
+EXTERNAL SOURCES:
+  LoginServiceKit:
+    :git: https://github.com/Clipy/LoginServiceKit.git
+  Preferences:
+    :branch: swiftui
+    :git: https://github.com/fredyshox/Preferences.git
+
+CHECKOUT OPTIONS:
+  LoginServiceKit:
+    :commit: 0b25f256e07ca110c2883f4f5072a7fe525b5805
+    :git: https://github.com/Clipy/LoginServiceKit.git
+  Preferences:
+    :commit: 3543712d75903f9ef718df4a2f5e8e20d50d7ba1
+    :git: https://github.com/fredyshox/Preferences.git
+
+SPEC CHECKSUMS:
+  KeyHolder: 142932db4eac7420b003e2eae94c9a61b8b53cb1
+  LoginServiceKit: 9a8b258c3111fa0d9585615052f778b08be92302
+  Magnet: f8dac2ffc845ffe68b2dd21c68a801f866f4a098
+  Preferences: 132fa777a0ba8e13947027ec68f3252a986ba7ea
+
+PODFILE CHECKSUM: b4f25ec92f26b89a37f63b4b2772c28e2d7123b3
+
+COCOAPODS: 1.9.0

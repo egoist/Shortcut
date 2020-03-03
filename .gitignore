@@ -1,0 +1,7 @@
+Carthage/Checkouts
+Carthage/Build
+
+Pods/
+
+xcuserdata
+Release
